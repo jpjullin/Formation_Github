@@ -22,26 +22,27 @@
 ### 1. Dépôt (**Repository**)
 Un **dépôt** est l'espace où est stocké **tout le code source et l'historique des modifications**.
 
-### 2️⃣ Fork
+### 2. Fork
 Un **fork** est une **copie d'un dépôt existant**, permettant à un utilisateur de modifier le code sans affecter l'original. Il permet de :
 - 🧪 **Expérimenter** sans modifier la source
 - 🛠️ **Proposer des améliorations** via des *Pull Requests*
 - 🌍 **Contribuer** à des projets open-source
 
-### 3️⃣ Branches
+### 3. Branches
 Une **branche** représente une **version spécifique** du projet. Les branches permettent de travailler sur différentes fonctionnalités ou corrections en parallèle.
-- La branche principale est souvent **`main`** ou **`master`**.
+- La branche principale est souvent `main` ou `master`.
 - Créer une nouvelle branche revient à **copier tout le code** du projet.
 
-### 4️⃣ Commit & Push
+### 4. Commit & Push
 - ✅ **Commit** : Sauvegarde locale d'une modification dans Git.
 - 🚀 **Push** : Envoie les modifications locales vers le dépôt distant sur GitHub.
-- 🛑 Toutes les modifications sont enregistrées dans un **dossier caché `.git`**, qui contient l'historique et la configuration du projet. **Ne JAMAIS toucher, déplacer ou modifier ce dossier.**
+
+🛑 Toutes les modifications sont enregistrées dans un **dossier caché** `.git`, qui contient l'historique et la configuration du projet. **Ne JAMAIS toucher, déplacer ou modifier ce dossier.**
 
 ### 🔄 Workflow classique :
-1️⃣ **Modifier** un fichier ✍️
-2️⃣ **Commit** : `git commit -m "Description de la modification"` 📌
-3️⃣ **Push** vers GitHub : `git push` 🚀
+- **Modifier** un fichier ✍️
+- **Commit** : `git commit -m "Description de la modification"` 📌
+- **Push** vers GitHub : `git push` 🚀
 
 ---
 
