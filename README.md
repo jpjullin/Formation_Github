@@ -5,9 +5,9 @@
 ---
 
 ## 📂 Contenu d'un Dépôt GitHub
-✅ **Fichiers textes** (ex. : `.txt`, `.md`, `.py`, `.cpp`, etc.)
-✅ **Code source** de projets logiciels
-✅ **Historique des modifications**
+- ✅ **Fichiers textes** (ex. : `.txt`, `.md`, `.py`, `.cpp`, etc.)
+- ✅ **Code source** de projets logiciels
+- ✅ **Historique des modifications**
 
 🛑 **Attention :** GitHub **ne fonctionne pas bien** avec certains types de fichiers binaires qui ne sont pas lisibles par un éditeur de texte (ex. Notepad) :
 - 🎵 Fichiers audio (`.wav`, `.mp3`)
