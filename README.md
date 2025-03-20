@@ -9,17 +9,17 @@
 - ✅ **Code source** de projets logiciels
 - ✅ **Historique des modifications**
 
-🛑 **Attention :** GitHub **ne fonctionne pas bien** avec certains types de fichiers binaires qui ne sont pas lisibles par un éditeur de texte (ex. Notepad) :
-- 🎵 Fichiers audio (`.wav`, `.mp3`)
-- 📝 Documents bureautiques (`.docx`, `.xlsx`)
-- 🖼️ Images (`.png`, `.jpg`)
+🚨 **Attention :** GitHub **ne fonctionne pas bien** avec certains types de fichiers binaires qui ne sont pas lisibles par un éditeur de texte (ex. Notepad) :
+- 🛑 🎵 Fichiers audio (`.wav`, `.mp3`)
+- 🛑 📝 Documents bureautiques (`.docx`, `.xlsx`)
+- 🛑 🖼️ Images (`.png`, `.jpg`)
 
-➡️ Ces fichiers peuvent entraîner des **conflits et des problèmes d'encodage** (ex. : affichage de caractères UTF-8 incorrects). Pour ces types de fichiers, il est recommandé d'utiliser des solutions alternatives comme **Git LFS (Large File Storage)** ou d'éviter de les stocker dans Git (**utiliser Google Drive ou une autre solution de stockage en ligne** à la place).
+➡️ Ces fichiers peuvent entraîner des **conflits et des problèmes d'encodage** (affichage de caractères UTF-8). Pour ces types de fichiers, il est recommandé d'utiliser des solutions alternatives comme **Git LFS (Large File Storage)** ou d'éviter de les stocker dans Git (**utiliser Google Drive ou une autre solution de stockage en ligne** à la place).
 
 ---
 
 ## 🏗️ Concepts Clés
-### 1️⃣ Dépôt (**Repository**)
+### 1. Dépôt (**Repository**)
 Un **dépôt** est l'espace où est stocké **tout le code source et l'historique des modifications**.
 
 ### 2️⃣ Fork
